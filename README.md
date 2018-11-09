@@ -20,8 +20,8 @@ In our last project, we worked on creating a static landing page. In this projec
 #### Bonus
 * Add a button to delete items from our shopping list.
 * Include prices for each shopping item, and update the shopping cart with your grand total. Google the `data` attribute and see how you can take advantage of that to include data related to your HTML.
+* So far, our programs have reset their variables as soon as the page is refreshed, so we don't have any data that persists. Modern browsers provide us with `localStorage` or `sessionStorage`, a lightweight option for us to save information in the browser that persists through page refreshes. Implement `localStorage` to save our shopping list.
 * Use jQuery to add beautiful effects and animations to your user interactions.
-* So far, our programs have reset their variables as soon as the page is refreshed, so we don't have any data that persists. Modern browsers provide us with `localStorage`, a lightweight option for us to save information in the browser that persists through page refreshes. Implement `localStorage` to save our shopping list.
 
 ### Resources
 * [jQuery data() function](https://api.jquery.com/jquery.data/)
