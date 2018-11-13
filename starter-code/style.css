@@ -3,7 +3,7 @@ body {
 }
 
 body > div {
-    width: 50%;
+    width: 100%;
 }
 
 #looking {
@@ -87,12 +87,16 @@ section {
 
 header {
     text-align: center;
+    width:1000px;
     margin: 0 auto;
-    width: 1000px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 footer {
     text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 
